@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marc Hurst</h1>
 <h3 align="center">A passionate fullstack developer from Ontario, Canada</h3>
 
-- 🔭 I’m currently working on **A work order system for Muskoka Grown**
+- 🔭 I’m currently working on **A Material Request system for Muskoka Grown**
 
-- 🌱 I’m currently learning **Node.js, MongoDB**
+- 🌱 I’m currently learning **Express, Handlebars, AWS.  Next:  React!**
 
 - 👨‍💻 All of my projects are available at [https://marchurst.netlify.app/](https://marchurst.netlify.app/)
 
