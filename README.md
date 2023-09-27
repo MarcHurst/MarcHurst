@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marc Hurst</h1>
 <h3 align="center">A passionate fullstack developer from Ontario, Canada</h3>
 
-- 🔭 I’m currently working on **A Material Request system for Muskoka Grown**
+- 🔭 I’m currently working on **An HRIS for Muskoka Grown**
 
-- 🌱 I’m currently learning **Express, Handlebars, AWS.  Next:  React!**
+- 🌱 I’m currently learning **NextJS, Prisma, tRPC, Typescript, Vercel.  Next:  Blob Uploads!**
 
-- 👨‍💻 All of my projects are available at [https://marchurst.netlify.app/](https://marchurst.netlify.app/)
+- 👨‍💻 All of my projects are available here in my repos.  I'm happy to show you anything.
 
-- 📫 How to reach me **marcrhurst@gmail.com**
+- 📫 How to reach me **marc.r.hurst@gmail.com**
 
 - ⚡ Fun fact **I work hard to give my cat a better life.**
 
